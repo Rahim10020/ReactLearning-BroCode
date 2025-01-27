@@ -1,10 +1,11 @@
 import './App.css'
-// import Header from './introduction/Header.jsx'
-// import Footer from './introduction/Footer.jsx'
-// import Food from './introduction/Food.jsx'
+// import Header from './introduction-1/Header.jsx'
+// import Footer from './introduction-1/Footer.jsx'
+// import Food from './introduction-1/Food.jsx'
 
-import Card from './card-component/Card.jsx'
+// import Card from './card-component-2/Card.jsx'
 
+// import Bouton from './bouton-module-3/bouton/Bouton.jsx'
 function App() {
 
   return (
@@ -13,9 +14,11 @@ function App() {
     <Food/>
     <Footer/> */}
 
+    {/* <Card/>
     <Card/>
-    <Card/>
-    <Card/>
+    <Card/> */}
+
+    {/* <Bouton/> */}
     </>
   )
 }
